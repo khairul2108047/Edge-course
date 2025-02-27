@@ -1,3 +1,3 @@
 # Edge-course
-#CUET
-#This is a demo
+CUET
+This is a demo
