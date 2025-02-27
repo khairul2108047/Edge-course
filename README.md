@@ -1,3 +1,3 @@
 # Edge-course
-##CUET
+## CUET
 This is a demo
